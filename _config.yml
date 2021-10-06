@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "½½·Î¸®°³¹ßÀÚ ´ÙÀÌ¾î¸®"
+title                    : "ìŠ¬ë¡œë¦¬ê°œë°œì ë‹¤ì´ì–´ë¦¬"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SlowyDevelop"
-description              : "°³¹ßÀº Ç×»ó Áñ°Ì°Ô"
+description              : "ê°œë°œì€ í•­ìƒ ì¦ê²ê²Œ"
 url                      : # the base hostname & protocol for your site e.g. "https://slowydevelop.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
